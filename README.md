@@ -1,9 +1,8 @@
 **Voyager** is an arcade style game inspired by Atari's _Tempest_ intended for Android phones. 
 ## Table of Contents
 * [Features](#features)
-* [Installation Guide (Debugging)](#installation-guide-debugging)
-* [Installation (User)](#installation-user)
-* [Technologies](#technology)
+* [Installation Guide](#installation-guide)
+* [Download](#download)
 * [Credits](#cyclone-dev-team-staff)
 
 ## Features
@@ -11,18 +10,21 @@
 - Scoring system
 - Vector based aesthetic 
 
-## Installation Guide (Debugging)
-**_We recommend you create a clone of the repository first_**
+## Installation Guide
+- **_We recommend you create a clone of the repository first_**
+- **Ensure you have the [latest Android SDK](https://developer.android.com/studio/debug/dev-options) and [Java](https://www.oracle.com/java/technologies/javase-downloads.html) builds**
 #### Through Unity
+- The game is powered by Unity ver. 2019.4.15f1
+  - [Latest Download](https://unity3d.com/get-unity/download)
+  - [Previous Versions](https://unity3d.com/get-unity/download/archive)
 - The unzipped file contains the assets and project files
 - Either the Windows or MacOS can be added directly into the Unity Hub and run
-#### APK File
+#### APK Files
 - Several pre-release betas as well as the final build are avaiable as an .APK in the second branch
 - If you have already enable Developer Options on your Android device (Or Virtual Machine), the file can be directly run through the .APK
-## Installation (User)
-- **Voyager** is avaiable on the Google Play Store where it can be directly downloaded
-## Technology
-- Powered by Unity ver. 2019.4.15f1
+
+## Download
+**Voyager** is available on the Google Play Store
 
 ## Cyclone Dev. Team Staff
 - **Alan Dautov** - Technical Lead
